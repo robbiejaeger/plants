@@ -6,7 +6,8 @@ A back-end for looking through plants!
 
 1. Run `npm install` to install dependencies.
 1. Create `plants` and `plants_test` databases in PostgreSQL (`psql`).
-1. Run the migration for the `plants` database
+1. Run the migration for the `plants` development database
+1. Run the migration for the `plants` test database
 
 ## Running the Server
 
